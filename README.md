@@ -15,7 +15,7 @@ This is a GUI-based Blackjack game. The game is based on the description provide
 ### Table of Contents
 
 - [Description](#description)
-- [Working](#Working)
+- [Working](#working)
 - [References](#references)
 
 ---
@@ -43,12 +43,12 @@ This is a GUI-based Blackjack game. The game is based on the description provide
 ---
 
 ## Working
-   Download the folder or Clone the Repo and run the temp.py file containing source code. 
-   The game is built using Python3 in Object Oriented way.
-   Command to run the Blackjack game.
-    '''
+Download the folder or Clone the Repo and run the temp.py file containing source code. 
+The game is built using Python3 in Object Oriented way.
+* Type the below command to run the ***Blackjack game***.
+    ```bash
     python3 temp.py
-    '''
+    ```
 
 
 ## References
